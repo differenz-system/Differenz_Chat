@@ -22,7 +22,7 @@ The app does the following:
 
 ## Pre-requisites
 - [Xcode 12.0](https://apps.apple.com/us/app/xcode/id497799835?mt=12) or above
-- iOS device or emulator running iOS 12 or above
+- iOS device or emulator running iOS 14 or above
 
 ## Getting Started
 1. [Install Xcode](https://developer.apple.com/xcode/)
